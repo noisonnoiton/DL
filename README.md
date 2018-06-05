@@ -1,2 +1,2 @@
 # DL
-DeepLearning
+Deep Learning
